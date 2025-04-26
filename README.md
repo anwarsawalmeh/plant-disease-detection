@@ -28,3 +28,18 @@ This project presents a deep learning-based system for classifying plant leaf di
 - Matplotlib
 - Scikit-learn
 - OpenCV
+## Current Status
+**Important Notice: Experimental Phase**
+
+The hybrid model is currently in an **experimental stage**. Although the model achieves **high classification accuracy** in **controlled lab settings** (using clean and structured datasets like PlantVillage), **real-world performance is yet to be validated**.  
+Thus, **there is considerable room for improvement**, especially regarding:
+- Generalization to **noisy**, **unstructured**, and **real-world environments**.
+- Robustness to **dataset biases**, **environmental variability**, and **image quality variations**.
+- Efficiency for deployment on **resource-constrained devices** (e.g., mobile, embedded systems).
+
+Users and researchers are encouraged to view the current results as **proof-of-concept** rather than a production-ready solution.
+
+## Key Points
+- **High Lab Accuracy**: Model achieves strong results on curated datasets.
+- **Real-World Caution**: Current results may not fully translate to field conditions without further adaptation.
+- **Future Improvements**: Work is ongoing to enhance robustness, scalability, and deployment capabilities.
